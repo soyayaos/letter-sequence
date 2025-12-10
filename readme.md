@@ -1,9 +1,1 @@
-```
-./letter-sequence.py --file=input-en.txt
-```
-![](./input-en.png)
-
-```
-./letter-sequence.py --file=input-ru.txt --alphabet='абвгдеёжзийклмнопрстуфхцчшщъыьэюя'
-```
-![](./input-ru.png)
+Moved to https://codeberg.org/soyayaos/letter-sequence
